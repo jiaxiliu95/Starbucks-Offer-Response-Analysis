@@ -13,7 +13,9 @@ The Jupyter Notebook in the repository should be able to work without any issue 
 - matplotlib
 - scikit-learn
 - seaborn
+
 The requirements.txt can be used to set up the environment.
+
 ## Project Motivation
 Starbucks sends out offers to customers through various media channels to encourage buying. The offers can be discount coupons or  merely advertisements for specific drinks. However, only a proportion of the sent-out offers are viewed and used by the customers before expiration. 
 
